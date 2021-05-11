@@ -238,3 +238,8 @@
     opacity: 1;
     content: '\f192';
   }
+
+  .imagen-cuadrada{
+    width: 240px  !important;
+    height: 240px !important;
+  }
